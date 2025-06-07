@@ -1,0 +1,2 @@
+# wuhan-trainstation-checkingsystem
+基于武汉地铁站查询目的的面向对象程序设计作业
